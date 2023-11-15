@@ -1,0 +1,53 @@
+/* # é para ID */
+/* . é para classe */
+
+
+body{
+    background-color: lightblue;
+   /* background-image: image();*/
+  }
+
+  #header-h1 {
+    text-align: center;
+    font-size: 50px;
+    /*background-color:darkgray ;*/
+    background-color: hsl(0,10%,60%);
+    border:2px solid tomato;
+    
+
+        /*width:50px;*/
+  }
+
+  #header-h2 {
+    text-align: center;
+    color:darkcyan;
+    background-color:white ;
+    border:2px solid tomato;
+  }
+
+
+p{
+    font-family: sans-serif;
+    color:blueviolet;
+    font-size: 20px;
+    text-align: left;
+
+}
+
+.tag-h2{
+    color: red;
+}
+
+#segunda-tag{
+    color: blue;
+}
+
+.input-label , .input-form{
+    display: block;
+    margin-bottom: 5px;
+}
+
+/* .input-form{
+    display: block;
+    margin-bottom: 5px;
+} */
